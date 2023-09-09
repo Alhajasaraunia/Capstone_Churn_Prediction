@@ -1,4 +1,4 @@
-#  Expressor Customer Churn Prediction, ML Approach
+#  CAPSTONEPROJECT_ExpressorCustomerChurnAnalysis
 <p align="center">
   <img src="images/welcome.jpg" alt="ExpressorLogo" width="800">
 </p>
@@ -176,7 +176,7 @@ streamlit run streamlitApp.py
 
 ### App Execution on Huggingface
 
-Here's a step-by-step process on how to use the [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App) on Huggingface:
+Here's a step-by-step process on how to use the [Streamlit App](https://huggingface.co/spaces/Alhajasaraunia/CAPSTONEPROJECT_ExpressorCustomerChurnAnalysis) on Huggingface:
 
 
 
@@ -185,9 +185,10 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 
 ## Contact
 
-`ACHEAMPONG Francis` 
+`REKIA IDDRISU OUEDRAOGO` 
 
 `Data Analyst`
 `Azubi Africa`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/francis-acheampong) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)(www.linkedin.com/in/
+rekia-iddrisu-ouedraogo)

@@ -190,5 +190,4 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 `Data Analyst`
 `Azubi Africa`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)(www.linkedin.com/in/
-rekia-iddrisu-ouedraogo)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)(http://www.linkedin.com/in/rekia-iddrisu-ouedraogo)
